@@ -4,7 +4,7 @@
 
 ### Their brand everywhere, and courses sold online
 
-**Client:** Starlent &nbsp;·&nbsp; **Delivered by:** TitanEd &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd (brand theme and storefront) &nbsp;·&nbsp; **Nov 2025 – Feb 2026**
+**Client:** Starlent &nbsp;·&nbsp; **Delivered by:** TitanEd &nbsp;·&nbsp; **My role:** Software Engineer at TitanEd (brand theme and storefront) &nbsp;·&nbsp; **Nov 2025 – Feb 2026**
 
 ![Open edX](https://img.shields.io/badge/Open%20edX-02262B?style=flat)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -43,6 +43,6 @@ courses online** instead of only enrolling learners by hand.
 
 <div align="center">
 
-**Sonu Kumar** · Frontend Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
+**Sonu Kumar** · Software Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
 
 </div>
