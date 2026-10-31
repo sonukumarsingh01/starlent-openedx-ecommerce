@@ -4,7 +4,7 @@
 
 ### Their brand everywhere, and courses sold online
 
-**Client:** Starlent &nbsp;·&nbsp; **Delivered by:** TitanEd &nbsp;·&nbsp; **My role:** Frontend Engineer (brand theme and storefront UI) &nbsp;·&nbsp; **Nov 2025 – Feb 2026**
+**Client:** Starlent &nbsp;·&nbsp; **Delivered by:** TitanEd &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd (brand theme and storefront) &nbsp;·&nbsp; **Nov 2025 – Feb 2026**
 
 ![Open edX](https://img.shields.io/badge/Open%20edX-02262B?style=flat)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -22,7 +22,7 @@
 Starlent wanted Open edX to **look and feel like their own product**, for both learners and course creators, and to **sell
 courses online** instead of only enrolling learners by hand.
 
-## ✅ What I delivered
+## ✅ My contribution
 
 | Area | What was built | Value for the client |
 |---|---|---|
